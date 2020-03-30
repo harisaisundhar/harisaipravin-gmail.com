@@ -1,0 +1,22 @@
+/* Landing Page =============================== */
+
+
+
+
+
+.section {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+/* Footer =================================== */
+.logos {
+  height: 30px;
+  width: 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
