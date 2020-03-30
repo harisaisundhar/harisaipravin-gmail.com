@@ -5,7 +5,7 @@ import github from '../assets/images/github.png';
 import facebook from '../assets/images/facebook.png';
 import instagram from '../assets/images/instagram.png';
 import telegram from '../assets/images/telegram.png';
-
+import gmail from '../assets/images/gm.jpg';
 class Footer extends React.Component {
   render() {
     return <Container id="footer-container" style={styles.footerStyle}>
@@ -23,6 +23,9 @@ class Footer extends React.Component {
         </a>
         <a href="https://t.me/Harisaisundhar">
           <img className="logos" src={telegram} alt="tele" />
+        </a>
+        <a href="https://t.me/Harisaisundhar">
+          <img className="logos" src={gmail} alt="gmail" />
         </a>
       </Container>;
   }
